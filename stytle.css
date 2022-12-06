@@ -1,0 +1,9 @@
+@import 'reset.css';
+
+@import 'lib.css';
+
+@import 'homepage.css'; /* Person 1 */
+@import 'category.css';/* Person 2 */
+@import 'film.css';/* Person 3 */
+@import 'contact.css';/* Person 4 */
+
